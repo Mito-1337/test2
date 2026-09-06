@@ -1,12 +1,4 @@
-# itmo_tools_2026
-Репозиторий для лабораторных по ИСРПО
+# This is ma first commit
 
-## Math formulas
-### Area
-- Circle: S = πR²
-- Rectangle: S = ab
-- Square: S = a²
-### Perimeter
-- Circle: P = 2πR
-- Rectangle: P = 2a + 2b
-- Square: P = 4a
+## Changes
+- Update chat: add new message
